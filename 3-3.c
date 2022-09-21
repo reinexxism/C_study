@@ -11,5 +11,5 @@ int main() {
 	printf("long형 변수 출력 : %ld\n", ln);
 	printf("long long형 변수 출력 : %lld\n", lln);
 
-	return 0;
+	return 0;	
 }
